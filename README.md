@@ -19,5 +19,5 @@ winterfest/
     └── css/                # Stylesheets
 ```
 
-### Deploy: via GitHub Pages
+### Deploy via GitHub Pages
 

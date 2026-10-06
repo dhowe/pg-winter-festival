@@ -1,9 +1,5 @@
 # PG Winter Festival 2026 Website
 
-This is the PG Winter Festival website downloaded from Framer and prepared for GitHub Pages hosting.
-
-## 📁 File Structure
-
 ```
 winterfest/
 ├── index.html              # Main website file
@@ -17,4 +13,3 @@ winterfest/
     ├── framer/             # Framer framework files
     ├── js/                 # JavaScript files
     └── css/                # Stylesheets
-```

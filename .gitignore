@@ -1,3 +1,5 @@
+misc/*
+
 # Ignore organization scripts
 organize-files.sh
 organize-for-github-pages.sh

@@ -1,17 +1,14 @@
 {
-  "festival_year": "2026",
-  "timeline": {
-    "festival_briefing": "TBD",
-    "application_deadline": "11th November 2026",
-    "selection_panel": "16th November 2026",
-    "confirmation_of_participation": "18th November 2026",
-    "show_texts_complete": "1st December 2026",
-    "festival_setup": "7th-9th December 2026",
-    "festival_dates": "10th – 12th December 2026"
-  },
-  "display_text": {
-    "when_title": "When",
-    "festival_period": "10th – 12th December 2026",
-    "setup_period": "7th-9th December 2026"
-  }
+  "dates": [
+    { "label": "Festival Briefing",             "date": "TBA" },
+    { "label": "Application Deadline",          "date": "11 / 11" },
+    { "label": "Selection Panel",               "date": "16 / 11" },
+    { "label": "Confirmation of participation", "date": "18 / 11" },
+    { "label": "Show Texts Complete",           "date": "01 / 12" },
+    { "label": "Show Install",                  "date": "07 / 12 - 09 / 12" },
+    { "label": "Community Awards",              "date": "TBA" },
+    { "label": "General Opening (Friends & Family PV)", "date": "TBA" },
+    { "label": "General Opening",               "date": "10 / 12 - 12 / 12" },
+    { "label": "Show Take Down",                "date": "TBA" }
+  ]
 }
